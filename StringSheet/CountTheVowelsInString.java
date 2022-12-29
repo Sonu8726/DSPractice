@@ -1,3 +1,4 @@
+package StringSheet;
 public class CountTheVowelsInString {
     public static void main(String[] args) {
         System.out.println(countTheVowelsInString("Sonu Kumar"));

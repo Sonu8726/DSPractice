@@ -1,3 +1,4 @@
+package StringSheet;
 public class CheckIfStringIsBinary {
     public static void main(String[] args) {
 

@@ -1,3 +1,4 @@
+package StringSheet;
 public class ReplaceACharFromString {
     public static void main(String[] args) {
 
